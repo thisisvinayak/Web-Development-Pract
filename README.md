@@ -1,3 +1,3 @@
 # Web-Development-Pract
-it's just my my web dev stuff for future reference :)
+it's just my web dev stuff for future reference :)
 ignore...
